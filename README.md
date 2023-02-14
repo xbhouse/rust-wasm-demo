@@ -1,6 +1,6 @@
 ## demo -- Rust, WebAssembly, JavaScript
 
-demo compiling Rust libraries to WebAssembly and importing as npm packages within JS apps 
+game of life demo compiling Rust libraries to WebAssembly and importing as npm packages within JS apps 
 
 https://rustwasm.github.io/docs/book/game-of-life/implementing.html
 
