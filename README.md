@@ -13,3 +13,5 @@ in root directory, build with:
 in www directory, run app with:
 
 `npm run start`
+
+display of life can be viewed in browser at http://localhost:8080/
